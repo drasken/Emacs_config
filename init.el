@@ -205,19 +205,10 @@
 	("https://xkcd.com/rss.xml" comic humor)
 	("https://feeds.feedburner.com/mrmoneymustache" money blog)
 	("http://feeds.feedburner.com/becomingminimalistcom" minimalism improvement)
-	("https://www.valigiablu.it/feed/" news)
-	("https://www.getrichslowly.org/articles//feed" money)
-	("https://www.financialsamurai.com/feed/" money)
 	("https://news.ycombinator.com/rss" tech hackernews)
 	("https://hackernoon.com//feed" tech)
 	("https://planet.lisp.org/rss20.xml" lisp)
-	("http://feeds.feedburner.com/ThePragmaticEngineer" tech)
-	("https://betterdev.link/rss.xml" tech coding)
-	("https://fumettologica.it/feed/" comics)
-	("https://josvisser.substack.com/feed" tech substack)
-	("https://www.raptitude.com/feed/" improvement blog)
-	("https://www.guerredirete.it/feed/" tech newsletter news)
-	("https://tim.blog/feed/" improvement blog)))
+	("https://josvisser.substack.com/feed" tech substack)))
 
 
 ;; Load elfeed-org
